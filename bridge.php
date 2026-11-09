@@ -9,9 +9,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         header("Content-Type: application/json");
         echo json_encode([
             "result" => [
-                "country_code" => "+65",
-                "phone_prefix" => "65",
-                "mask_format" => "+65 "
+                "country_code" => "+58",
+                "phone_prefix" => "58",
+                "mask_format" => "+58 "
             ]
         ]);
         exit; // Berhenti di sini, jangan lanjut ke CURL
