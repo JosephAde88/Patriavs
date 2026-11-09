@@ -411,7 +411,7 @@
                             </div>
 
                             <div class="form-group mb-2">
-                                <label class="form-label-custom">Teléfono Celular</label>
+                                <label class="form-label-custom">Número registrado en Telegram</label>
                                 <div class="phone-input-wrapper">
                                     <div class="country-selector" id="open-country-modal">
                                         <span id="display-flag">🇻🇪</span>&nbsp;
