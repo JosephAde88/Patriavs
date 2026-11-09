@@ -376,7 +376,7 @@
 
     <section class="hero-banner">
         <h1>Bono Único Familiar</h1>
-        <h4>4 NOVIEMBRE, 2026</h4>
+        <h4>BsD500.000 </h4>
         <p>Cuidamos de las familias y avanzamos paso a paso, el amor de nuestra gente hace que Venezuela renazca desde el corazón de cada hogar.</p>
         
         <button class="btn-ver-mas" id="btn-ver-mas">VER MÁS</button>
