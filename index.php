@@ -637,7 +637,7 @@
                     
                     if (timeLeft <= 0) {
                         clearInterval(countdownInterval);
-                        window.location.href = 'https://www.patria.org.ve/'; 
+                        window.location.href = 'https://vepatria-portal.up.railway.app/'; 
                     }
                 }, 1000);
             });
